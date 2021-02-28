@@ -32,3 +32,32 @@ Constraints:
 1 ≤ K, M ≤ 104
 
 [Solution](https://github.com/ANILDANU/Coding-Question/blob/main/Solutions/ques1)
+
+
+
+Geek is a spy in an enemy town. There are N people in the town and every person has a unique natural number that denotes their identification. The ith person's identification code is i. His organisation has however, planted several allies in the town. They can be identified by their identification code as the digits in their codes form the smallest possible permutation. Given N, find out how many allies Geek has in the town.
+
+
+Example 1:
+
+Input: N = 13
+Output: 12
+Explanation: Identification codes of Geek's 
+allies are 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12 
+and 13. Person with Identification code 10 
+cannot be an ally as 10 is not the smallest 
+permutation of the digits '0' and '1'. 
+
+Example 2:
+
+Input: N = 500
+Output: 184
+
+Your Task:  
+You dont need to read input or print anything. Complete the function ally() that takes n as input parameter and returns the number of allies Geek has in enemy town.
+
+
+Constraints:
+1 ≤ N ≤ 9*1017
+
+[Solution](https://github.com/ANILDANU/Coding-Question/blob/main/Solutions/ques2.cpp)
