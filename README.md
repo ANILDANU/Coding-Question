@@ -29,4 +29,4 @@ Constraints:
 1 ≤ N ≤ 103
 1 ≤ K, M ≤ 104
 
-[Solution]{}
+[Solution]{Questions}
