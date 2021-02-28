@@ -3,7 +3,7 @@ Learning coding
 Prepearing for coding questions
 
 
-N exams numbered from 1 to N are going be held at Geekland state university. Geek is a renowned professor at the university and therefore is given the task to design the datesheet for exams. Datesheet must be made in such a way that total number of holidays in the datesheet is exactly K i.e. sum of holidays given for each exam is exactly K. Moreover, no exam should have more than M holidays.
+Question 1: N exams numbered from 1 to N are going be held at Geekland state university. Geek is a renowned professor at the university and therefore is given the task to design the datesheet for exams. Datesheet must be made in such a way that total number of holidays in the datesheet is exactly K i.e. sum of holidays given for each exam is exactly K. Moreover, no exam should have more than M holidays.
 Two datesheets are considered different if number of holidays for a particular exam in both the datesheets is different. Find number of valid datesheets Geek can choose from. 
 As answer can be very large, find it modulo 109 + 7.
 
@@ -35,7 +35,7 @@ Constraints:
 
 
 
-Geek is a spy in an enemy town. There are N people in the town and every person has a unique natural number that denotes their identification. The ith person's identification code is i. His organisation has however, planted several allies in the town. They can be identified by their identification code as the digits in their codes form the smallest possible permutation. Given N, find out how many allies Geek has in the town.
+Question 2: Geek is a spy in an enemy town. There are N people in the town and every person has a unique natural number that denotes their identification. The ith person's identification code is i. His organisation has however, planted several allies in the town. They can be identified by their identification code as the digits in their codes form the smallest possible permutation. Given N, find out how many allies Geek has in the town.
 
 
 Example 1:
