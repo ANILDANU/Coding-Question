@@ -1,6 +1,6 @@
 # Coding-Question
-Learning coding
-Prepearing for coding questions
+Learning coding//
+Prepearing for coding questions//
 N exams numbered from 1 to N are going be held at Geekland state university. Geek is a renowned professor at the university and therefore is given the task to design the datesheet for exams. Datesheet must be made in such a way that total number of holidays in the datesheet is exactly K i.e. sum of holidays given for each exam is exactly K. Moreover, no exam should have more than M holidays.
 Two datesheets are considered different if number of holidays for a particular exam in both the datesheets is different. Find number of valid datesheets Geek can choose from. 
 As answer can be very large, find it modulo 109 + 7.
